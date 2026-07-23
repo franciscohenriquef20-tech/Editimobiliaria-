@@ -1,0 +1,12 @@
+{
+  "name": "Ronaldo de Mello — Corretor de Imóveis",
+  "short_name": "Ronaldo Mello",
+  "description": "Corretor de imóveis em São Paulo, especialista em médio e alto padrão. CRECI 267431.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F1E8",
+  "theme_color": "#14150F",
+  "icons": [
+    { "src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
